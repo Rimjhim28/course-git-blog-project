@@ -16,7 +16,7 @@ This repo contains the source code of a blog project that will be used throughou
 
 ## Creators
 
-* Richard Kalehoff
+* Richard Kalehof
     - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
     - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
 
